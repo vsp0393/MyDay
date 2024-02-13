@@ -5,6 +5,9 @@ import 'package:flutter/services.dart';
 import 'package:myday/GetStartedScreen.dart';
 
 
+
+
+
 void main() {
   // Set preferred orientations to only portrait mode
   WidgetsFlutterBinding.ensureInitialized();
