@@ -54,8 +54,6 @@ class _OTPscreenState extends State<OTPscreen> {
                       // Set the fill color for the selected area (optional)
                         pinTheme: PinTheme(activeColor: Colors.amber,selectedColor: Colors.amber,inactiveColor: Colors.black26)
                     ),
-
-
                     //test git
                   ],),)
               )
